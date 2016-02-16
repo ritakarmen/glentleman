@@ -1,0 +1,71 @@
+body{
+	background-color: #EFF5FB;
+}
+.container{
+	background-color: white;
+}
+header{
+	background-color: black;
+	color: white;
+}
+
+nav .menu{
+	position: absolute;
+	top: 45;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	transition: all 0.5s;
+	transform: translateX(-100%);
+}/*
+a {
+	display: block;
+	color: #fff;
+	height: 20px;
+	text-decoration:  none;
+	padding: 15px;
+	border-bottom: 0.5px solid rgba(255,255,255,0.5);
+}
+nav.menu a:hover {
+	background-color: #9B6093;
+	color: #F4DEF4;
+}*/
+.foto1 img{
+width: 100%;
+padding: 5%;
+}
+
+.explica{
+	width: 50%;
+	padding: 25px;
+	text-align: left;
+	font-size: 18px;
+}
+section{
+	padding-bottom: 3%;
+}
+button{
+	margin-left: 25px;
+	width: 100px;
+	height: 50px;
+	border-radius: 20%;
+	background-color: #848484;
+	color: white;
+}
+button .btn2{
+	margin-left: 50%;
+	width: 100px;
+	height: 50px;
+	border-radius: 20%;
+	background-color: #848484;
+	color: white;
+}
+.rayita{
+	width: 100%;
+}
+footer{	
+	background-color: black;
+	color: white;
+}
+
+<image>
